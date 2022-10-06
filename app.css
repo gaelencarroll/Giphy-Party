@@ -1,0 +1,39 @@
+h1{
+    color: darkslateblue;
+    text-align: center;
+    font-size: 2.5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: lightcyan;
+}
+
+form{
+    text-align: center;
+}
+
+#search{
+    font-size: 1.2em;
+    background-color: whitesmoke;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#submit{
+    font-size: 1.2em;
+    background-color: lightpink;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#remove{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#removeBtn{
+    background-color: lightgoldenrodyellow;
+}
+
+img{
+    margin: 5px 5px 5px 5px;
+}
